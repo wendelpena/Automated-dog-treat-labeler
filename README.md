@@ -1,8 +1,8 @@
 # Automated-dog-treat-labeler
 
-Capstone project for Mechatronics & Robotics 2024. Automate the dog treat labeling process using a 3D-printed gripper, ABB robotic arm, and computer vision to locate/grab treats on a table.
+Capstone project for Mechatronics & Robotics 2024. Automate the dog treat labeling process using a 3D-printed gripper, ABB robotic arm, and computer vision to locate/grab treats on a table. Sponsored by [Open Range Natural Dog Treats](https://openrangepettreats.com/)
 
-Sponsored by [Open Range Natural Dog Treats](https://openrangepettreats.com/)
+[Project Report]()
 
 Notes:  
 ```machine_vision_modules.zip``` holds all python modules used in the final project code.  
