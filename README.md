@@ -4,6 +4,8 @@ Capstone project for Mechatronics & Robotics 2024. Automate the dog treat labeli
 
 [Project Report](https://github.com/wendelpena/Automated-dog-treat-labeler/blob/main/mechatronics-final-project-report2024.pdf)
 
+[Project Demo](https://github.com/wendelpena/Automated-dog-treat-labeler/blob/main/dogTreatLabeler_demo.mp4)
+
 Notes:  
 ```machine_vision_modules.zip``` holds all python modules used in the final project code.  
 ```machine_vision_python_files.zip``` holds all python drafts.  
