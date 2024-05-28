@@ -13,4 +13,5 @@ Capstone project for Mechatronics & Robotics 2024. Automate the dog treat labeli
 
 # Team Members
 Wendel Pena, Zy Jarvis, Wyatt Johnson
+
 https://github.com/wendelpena/Automated-dog-treat-labeler/assets/124242132/180ec82a-0dc5-4c87-951a-52fa7c527621
